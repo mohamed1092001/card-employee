@@ -249,4 +249,8 @@ body {
     .card{
         width: 85%;
     }
+
+    .rate-box{
+        top:50%;
+    }
 }
