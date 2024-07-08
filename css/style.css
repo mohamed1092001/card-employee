@@ -44,7 +44,7 @@ body {
     width: 100%;
     aspect-ratio: 1/1.3;
     object-fit: cover;
-    transition: .5s;
+    transition: .7s;
 }
 
 .card .info-bar {
